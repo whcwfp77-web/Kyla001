@@ -1,0 +1,24 @@
+{
+  "title": "Language Learning Platform",
+  "description": "Learn languages through video clips",
+  "welcome": "Welcome to Language Learning Platform",
+  "subtitle": "Learn languages through real video clips and improve your language skills",
+  "features": {
+    "shadowLab": {
+      "title": "Shadow Lab",
+      "description": "Shadowing practice to improve pronunciation and fluency"
+    },
+    "srs": {
+      "title": "SRS Review",
+      "description": "Scientific spaced repetition review system"
+    },
+    "grammar": {
+      "title": "Grammar Lens",
+      "description": "Compare grammar points across languages"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "noResults": "No results found"
+  }
+}
