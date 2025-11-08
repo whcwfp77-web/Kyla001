@@ -1,0 +1,42 @@
+{
+  "name": "Language Learning Platform",
+  "short_name": "LLP",
+  "description": "Learn languages through video clips with Shadow Lab and SRS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Review",
+      "short_name": "Review",
+      "description": "Start your daily review session",
+      "url": "/me/review",
+      "icons": [{ "src": "/icon-review.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Shadow Lab",
+      "short_name": "Shadow Lab",
+      "description": "Practice shadowing",
+      "url": "/shadow-lab",
+      "icons": [{ "src": "/icon-shadow.png", "sizes": "96x96" }]
+    }
+  ]
+}

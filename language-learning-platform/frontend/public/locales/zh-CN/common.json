@@ -1,0 +1,24 @@
+{
+  "title": "语言学习平台",
+  "description": "通过视频片段学习语言",
+  "welcome": "欢迎使用语言学习平台",
+  "subtitle": "通过真实的视频片段学习语言，提升你的语言能力",
+  "features": {
+    "shadowLab": {
+      "title": "Shadow Lab",
+      "description": "跟读练习，提升发音和流利度"
+    },
+    "srs": {
+      "title": "SRS 复习",
+      "description": "科学的间隔重复复习系统"
+    },
+    "grammar": {
+      "title": "语法透镜",
+      "description": "多语言语法点对比学习"
+    }
+  },
+  "search": {
+    "title": "搜索",
+    "noResults": "没有找到结果"
+  }
+}
